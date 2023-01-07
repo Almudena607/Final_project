@@ -1,9 +1,12 @@
 python
 pip
 tensorflow 
+tensorflow_hub
+Pillow
 matplotlib
 numpy
 pandas
 cv2
 os 
 glob
+label-studio
