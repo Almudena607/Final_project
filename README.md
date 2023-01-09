@@ -38,3 +38,5 @@ After the first try I followed a tutorial that was very similar to my goal (http
 
 #### Faster RCNN Resnet-101 V1
 At this point we considerated that the problem might be resolved using Windows. I installed everything I needed and prepared Windows so I could start over. This time I followed a more extensive tutorial (https://www.youtube.com/watch?v=SJRP0IRfPj0&t=0s) that used Faster RCNN Resnet-101  V1. When everything was ready to run the training, several protoc-related issues appeared, and I still have not found a solution for the last one.
+
+The new repository using Windows is https://github.com/Almudena607/bdml_final_project.
